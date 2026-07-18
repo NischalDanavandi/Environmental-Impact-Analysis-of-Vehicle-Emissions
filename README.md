@@ -1,4 +1,4 @@
-# CO2 Emissions Analysis: Vehicle Fleet Sustainability Insights
+<img width="1366" height="720" alt="recommendations" src="https://github.com/user-attachments/assets/b9a4a51a-1e1c-44a6-8fb3-6ef9f5b48b92" /># CO2 Emissions Analysis: Vehicle Fleet Sustainability Insights
 
 A Power BI project analysing CO2 emissions across a 6,654-vehicle fleet to identify the strongest drivers of emissions and support data-driven sustainability decisions for policy makers and fleet managers.
 
@@ -63,7 +63,17 @@ Understanding which vehicle types contribute most to CO2 emissions is critical f
 - **Recommendation:** Sequence fleet transition efforts by starting with high-mileage petrol/ICE segments, since this is where electrification will produce the largest measurable drop in total emissions.
 
 ## Dashboard Preview
-![Dashboard Preview](screenshots/dashboard.png)
+<img width="1366" height="720" alt="fuel_distribution" src="https://github.com/user-attachments/assets/8bdef9ba-b97f-4388-9b0a-53d4524c51f6" />
+<img width="1366" height="720" alt="emission_drivers_segment1" src="https://github.com/user-attachments/assets/982eaedb-641f-4e84-b9d6-5850c423a306" />
+<img width="1366" height="720" alt="emission_drivers_overview" src="https://github.com/user-attachments/assets/5325985b-40ac-49f3-b15d-152574b52a36" />
+<img width="1366" height="720" alt="emissions_breakdown" src="https://github.com/user-attachments/assets/4246bdaf-0a14-448d-84cb-8470b16b04ef" />
+<img width="1366" height="720" alt="recommendations" src="https://github.com/user-attachments/assets/8840a630-6c15-4007-a343-d2d267638108" />
+
+
+
+
+
+
 
 ## How to Use
 1. Clone this repository
@@ -72,4 +82,3 @@ Understanding which vehicle types contribute most to CO2 emissions is critical f
 
 ## Author
 **Nischal Danavandi**
-[GitHub](https://github.com/NischalDanavandi)
