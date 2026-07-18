@@ -1,4 +1,4 @@
-<img width="1366" height="720" alt="recommendations" src="https://github.com/user-attachments/assets/b9a4a51a-1e1c-44a6-8fb3-6ef9f5b48b92" /># CO2 Emissions Analysis: Vehicle Fleet Sustainability Insights
+CO2 Emissions Analysis: Vehicle Fleet Sustainability Insights
 
 A Power BI project analysing CO2 emissions across a 6,654-vehicle fleet to identify the strongest drivers of emissions and support data-driven sustainability decisions for policy makers and fleet managers.
 
